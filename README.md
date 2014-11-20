@@ -1,5 +1,5 @@
-scheduler3
+scheduler4
 ==========
 
 TYPO3 Scheduler task example.
-How to use system flash messages.
+How to add new field to scheduler task.
